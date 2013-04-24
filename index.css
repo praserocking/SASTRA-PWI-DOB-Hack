@@ -1,0 +1,81 @@
+@charset "utf-8";
+body
+{
+  background-color:#7FDFFF;
+}
+#btn
+{
+	border-width: 2px;
+        border-top-width: 2px;
+        border-right-width-value: 2px;
+        border-bottom-width: 2px;
+        border-left-width-value: 2px;
+        border-left-width-ltr-source: physical;
+        border-left-width-rtl-source: physical;
+        border-right-width-ltr-source: physical;
+        border-right-width-rtl-source: physical;
+    	border-style: solid;
+        border-top-style: solid;
+        border-right-style-value: solid;
+        border-bottom-style: solid;
+        border-left-style-value: solid;
+        border-left-style-ltr-source: physical;
+        border-left-style-rtl-source: physical;
+        border-right-style-ltr-source: physical;
+        border-right-style-rtl-source: physical;
+    	border-color: rgb(5, 87, 148);
+        border-top-color: rgb(5, 87, 148);
+        border-right-color-value: rgb(5, 87, 148);
+        border-bottom-color: rgb(5, 87, 148);
+        border-left-color-value: rgb(5, 87, 148);
+        border-left-color-ltr-source: physical;
+        border-left-color-rtl-source: physical;
+        border-right-color-ltr-source: physical;
+        border-right-color-rtl-source: physical;
+    	background-color: rgb(5, 87, 148);
+    	color: rgb(255, 255, 255);
+    	font-size: 13px;
+    	font-weight: bold;
+}
+#box
+{
+	text-align:center;
+	width:550px;
+	height:50px;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:#F90;
+}
+h1
+{
+	font-family:"Comic Sans MS", cursive;
+	
+}
+#hphp
+{
+	padding-left:575px;
+}
+#bo
+{
+	padding-top:150px;
+	padding-left:500px;
+	font:"Comic Sans MS", cursive;
+	font-family:"Comic Sans MS", cursive;
+	font-size:16px;
+}
+#tab
+{
+	
+	background-color:#CCC;
+	width:320px;
+	height:100px;
+	border-style:dotted;
+	border-color:#000;
+}
+#sub
+{
+	padding-left:100px;
+	padding-top:15px;
+}
+
+

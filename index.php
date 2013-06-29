@@ -32,7 +32,10 @@ Enter Register Number:</td><td><input type="text" size=9 name="reg" /></td></tr>
 </form>
 </div>
 <div id="hphp">
+
 <?php
+
+/***** OUR GAME STARTS ******/
 $f=0;
 
 /* Function to login */
@@ -116,6 +119,7 @@ if($t==0)
 	check($reg,$yr);
 }
 
+/***** GAME-OVER *****/
 ?>
 </div>
 </body>

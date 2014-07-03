@@ -96,7 +96,7 @@ echo "Not this year.. try some other year..";
 }
 
 /* This is the Main Part */
-/* Remember this number?? then say.. or else Check online and say..;) Dynamic Programming with database.. */
+/* Remember this number?? then say.. or else Check online and say..;) Cache ing with database.. */
 if(isset($_POST['reg']) && isset($_POST['yr']))
 {
 $reg=$_POST['reg'];

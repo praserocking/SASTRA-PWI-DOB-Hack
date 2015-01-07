@@ -39,7 +39,6 @@ CREATE TABLE IF NOT EXISTS `students` (
 --
 
 INSERT INTO `students` (`number`, `name`, `year`, `course`, `dob`) VALUES
-('115015104', ' Priyanka, S \r\n               ', ' V Semester', ' B.Tech.Information Technology \r\n       ', '1994-01-10'),
 ('115015123', ' Shenbaga Prasanna, S \r\n      ', ' V Semester', ' B.Tech.Information Technology \r\n       ', '1994-03-09'),
 ('115009154', ' Shyam, R \r\n                  ', ' V Semester', ' B.Tech.Mechanical Engineering \r\n       ', '1994-07-03'),
 ('115003194', ' Soma Sundaram, M \r\n          ', ' V Semester', ' B.Tech.Computer Science & Engineering \r', '1994-01-23'),
